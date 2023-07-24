@@ -37,7 +37,9 @@ Have questions or need assistance? Reach out to us:
 
 - Email: ahmadhamdan041@gmail.com
 - LinkedIn:https:[//discord.gg/placementprep](https://www.linkedin.com/in/hamdaan-ahmad-34a4a0203
-](https://www.linkedin.com/in/hamdaan-ahmad-34a4a0203/)
+
+]
+
 Let's grow together and make the world of placements a better place!
 
 ---
