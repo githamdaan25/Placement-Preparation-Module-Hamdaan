@@ -38,7 +38,8 @@ Have questions or need assistance? Reach out to us:
 - Email: ahmadhamdan041@gmail.com
 - LinkedIn:https:[//discord.gg/placementprep](https://www.linkedin.com/in/hamdaan-ahmad-34a4a0203
 
-![image](https://github.com/githamdaan25/Placement-Preparation-Module-Hamdaan/assets/85315584/78678132-ff04-4e7a-9bb6-4ad552ea1ec9)
+![Preparation](https://github.com/githamdaan25/Placement-Preparation-Module-Hamdaan/assets/85315584/ce60482a-df7c-4323-bb67-5b534b66ea47)
+
 
 Let's grow together and make the world of placements a better place!
 
