@@ -1,9 +1,7 @@
 # Placement-Preparation-Module-Hamdaan
 <!-- Add an eye-catching header/banner here -->
-<p align="center">
-  <img src="![image](https://github.com/githamdaan25/Placement-Preparation-Module-Hamdaan/assets/85315584/c84b78ff-bb0c-4558-b071-ea2469e12b18)
-" alt="Placement Preparation">
-</p>
+![image](https://github.com/githamdaan25/Placement-Preparation-Module-Hamdaan/assets/85315584/0dde0fa3-0752-46aa-849e-d7408ffe3fd0)
+
 
 # Placement Preparation :rocket:
 
