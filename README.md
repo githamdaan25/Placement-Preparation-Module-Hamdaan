@@ -17,7 +17,7 @@ Welcome to my placement preparation repository! Here, I share my LeetCode soluti
 
 Here's what you can find in this repository:
 
-### 1. Leetcode :question:
+### 1. Leetcode question:
 
 Prepare yourself for a wide range of technical and non-technical interview questions. We've got you covered for technical subjects like data structures, algorithms, databases, system design, and also general HR questions to help you ace those behavioral rounds!
 
@@ -36,8 +36,8 @@ If you find this repository useful, don't forget to give it a star! It motivates
 Have questions or need assistance? Reach out to us:
 
 - Email: ahmadhamdan041@gmail.com
-- LinkedIn: [LinkedIn/Hamdaan]([https://discord.gg/placementprep](https://www.linkedin.com/in/hamdaan-ahmad-34a4a0203/))
-
+- LinkedIn:https:[//discord.gg/placementprep](https://www.linkedin.com/in/hamdaan-ahmad-34a4a0203
+](https://www.linkedin.com/in/hamdaan-ahmad-34a4a0203/)
 Let's grow together and make the world of placements a better place!
 
 ---
